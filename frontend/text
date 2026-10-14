@@ -1,0 +1,15 @@
+Authentication verifies who you are, while authorization means which resources and actions you are allowed to access.
+
+
+authentication needs to be achive on both client and server.
+
+api endpoint:
+api endpoint means when i click on button or do any action then call api that api provide by server.
+and return response.
+
+api endpoint use for communication fromm backend
+
+api have 5 methods get post put patch delete 
+
+
+API endpoint is a specific digital location or URL where an Application Programming Interface (API) receives requests and sends responses
